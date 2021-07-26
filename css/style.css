@@ -1,0 +1,51 @@
+.panda-bg-info-backgraound
+{
+    background-color: #fce8e7;
+}
+.btn-warning-backgraound
+{
+    width: 168px;
+height: 52px;
+font-weight: 600;
+background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+border-radius: 6px;
+}
+
+.catagories-bg-warning
+{
+    background-color: #ffae2b;
+}
+.catagories-bg-success
+{
+    background-color: #ff3e8b;
+}
+.catagories-bg-primary
+{
+    background-color: #4149fc;
+}
+.buynow-btn-dark
+{
+    width: 150px;
+    height: 52px;
+    font-weight: 600;
+    margin-left: 100px;
+    background: #000000;
+border-radius: 6px;
+}
+.shoe-price
+{
+    margin-left: 120px;
+   
+}
+.subscribe-bg-danger
+{
+    background-color: #fff2f1;
+  
+}
+.subscribe-button-btn-warning
+{
+background-color:   #ff3585;
+width: 140px;
+height: 60px;
+font-weight: 600;
+}
